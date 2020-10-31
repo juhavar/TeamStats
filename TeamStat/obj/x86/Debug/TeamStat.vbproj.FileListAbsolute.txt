@@ -1,0 +1,22 @@
+C:\Users\jvar\AppData\Local\Temporary Projects\TeamStat\bin\Debug\TeamStat.exe
+C:\Users\jvar\AppData\Local\Temporary Projects\TeamStat\bin\Debug\TeamStat.pdb
+C:\Users\jvar\AppData\Local\Temporary Projects\TeamStat\bin\Debug\TeamStat.xml
+C:\Users\jvar\AppData\Local\Temporary Projects\TeamStat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jvar\AppData\Local\Temporary Projects\TeamStat\obj\x86\Debug\TeamStat.Form1.resources
+C:\Users\jvar\AppData\Local\Temporary Projects\TeamStat\obj\x86\Debug\TeamStat.Resources.resources
+C:\Users\jvar\AppData\Local\Temporary Projects\TeamStat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jvar\AppData\Local\Temporary Projects\TeamStat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jvar\AppData\Local\Temporary Projects\TeamStat\obj\x86\Debug\TeamStat.exe
+C:\Users\jvar\AppData\Local\Temporary Projects\TeamStat\obj\x86\Debug\TeamStat.xml
+C:\Users\jvar\AppData\Local\Temporary Projects\TeamStat\obj\x86\Debug\TeamStat.pdb
+D:\projektit\koodi\vb.net\TeamStat\TeamStat\obj\x86\Debug\TeamStat.exe
+D:\projektit\koodi\vb.net\TeamStat\TeamStat\obj\x86\Debug\TeamStat.xml
+D:\projektit\koodi\vb.net\TeamStat\TeamStat\obj\x86\Debug\TeamStat.pdb
+D:\projektit\koodi\vb.net\TeamStat\TeamStat\bin\Debug\TeamStat.exe
+D:\projektit\koodi\vb.net\TeamStat\TeamStat\bin\Debug\TeamStat.pdb
+D:\projektit\koodi\vb.net\TeamStat\TeamStat\bin\Debug\TeamStat.xml
+D:\projektit\koodi\vb.net\TeamStat\TeamStat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\projektit\koodi\vb.net\TeamStat\TeamStat\obj\x86\Debug\TeamStat.Form1.resources
+D:\projektit\koodi\vb.net\TeamStat\TeamStat\obj\x86\Debug\TeamStat.Resources.resources
+D:\projektit\koodi\vb.net\TeamStat\TeamStat\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\projektit\koodi\vb.net\TeamStat\TeamStat\obj\x86\Debug\GenerateResource.write.1.tlog
