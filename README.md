@@ -1,5 +1,5 @@
 # TeamStats
-Hahmotelma koripallon tilastointiohjelmasta, johon voidaan lisätä ottelun käynnissä ollessa yleisimmät tilastot pelaajakohtaisesti kuten:
+Koripallon Läntisen alueen IV-divisioonassa kaudella 2012-13 käytössä ollut tilastointiohjelma, jolla voitiin kerätä ottelun käynnissä ollessa yleisimmät tilastot pelaajakohtaisesti kuten:
   - pelitilanne- (2p, 3p) ja vapaaheitot joista lasketaan onnistumisprosentit
   - tehty pistemäärä
   - levypallot (hyökkäys/puolustus)
@@ -9,3 +9,4 @@ Hahmotelma koripallon tilastointiohjelmasta, johon voidaan lisätä ottelun käy
   - henkilökohtaiset virheet
   - pallonmenetykset
   
+Tilastot lisättiin jälkikäteen manuaalisesti bbStat.kapsi.fi-palveluun.
